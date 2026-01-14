@@ -1,0 +1,1 @@
+# NUnit3TestAdapter_MsBuildTask

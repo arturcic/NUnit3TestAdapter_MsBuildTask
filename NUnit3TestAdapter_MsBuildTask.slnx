@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/props/">
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="Tests.NotWorking/Tests.NotWorking.csproj" />
+  <Project Path="Tests.Working\Tests.Working.csproj" />
+</Solution>
